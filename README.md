@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahrizal0112&label=Profile%20views&color=0e75b6&style=flat" alt="fahrizal0112" /> </p>
 
-- 👨‍💻 All of my projects are available at [fahrizalporto.com](fahrizalporto.com)
+- 👨‍💻 All of my projects are available at [[fahrizalporto.com](https://fahrizalporto.com/)]
 
 - 📫 How to reach me **muchamad.fachrizal12@gmail.com**
 
