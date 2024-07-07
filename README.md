@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Muchammad Fahrizal A passionate Backend Developer From Indonesia</h2>
-<h3> 👨‍💻 All of my projects are available at [[fahrizalporto.com](https://fahrizalporto.com/)]</h3>
+<h3> 👨‍💻 All of my projects are available at https://fahrizalporto.com</h3>
 
 <h3> 📫 How to reach me **muchamad.fachrizal12@gmail.com** </h3>
 
