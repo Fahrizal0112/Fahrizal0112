@@ -70,6 +70,7 @@
   <a href="https://www.linkedin.com/in/muchammad-fahrizal/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Fahrizal0112&theme=dark&hide_border=false)<br/>
   <a href="https://www.instagram.com/mfachrzl/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
