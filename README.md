@@ -30,8 +30,8 @@
 <h3 align="center">🚀 About Me</h3>
 
 <p align="center">
-  I am a passionate <strong>Full Stack Developer</strong> based in <strong>Cibinong, Indonesia</strong> 🇮🇩. <br/>
-  Currently working at <strong>PT Nuon Digital Indonesia</strong>, I specialize in building robust backend systems and exploring cloud technologies.
+  I am a passionate <strong>Full Stack Developer</strong> based in 🇮🇩. <br/>
+  I specialize in building robust backend systems and exploring cloud technologies.
 </p>
 
 <div align="center">
