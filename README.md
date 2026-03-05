@@ -42,7 +42,6 @@
           <li>🔭 <strong>Currently working on:</strong> Scalable Web Apps & Microservices</li>
           <li>🌱 <strong>Learning:</strong> Rust, Advanced Machine Learning, & Distributed Systems</li>
           <li>👯 <strong>Looking to collaborate on:</strong> Open Source Projects & Cloud Architecture</li>
-          <li>⚡ <strong>Fun fact:</strong> I love modifying cars (Wuling Almaz enthusiast 🚗) and creating content!</li>
         </ul>
       </td>
     </tr>
